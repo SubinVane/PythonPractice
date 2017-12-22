@@ -20,3 +20,23 @@ print('I\'m \n\"OK\"')
 # r'' 不转义
 print(r'I\'m \n\"OK\"')
 
+print('''line1
+line2
+line3''')
+
+print(r'''line1
+line2
+line3''')
+
+print(3>2)
+print(3<2)
+
+print(True or False)
+print(True and False)
+print(5>3 and 2>3)
+print(not True)
+print(not 1>2)
+
+print(ord('文'))
+print(chr(20013))
+
